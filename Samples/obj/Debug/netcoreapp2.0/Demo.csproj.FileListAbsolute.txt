@@ -1,0 +1,15 @@
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\bin\netcoreapp2.0\Demo.deps.json
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\bin\netcoreapp2.0\Demo.runtimeconfig.json
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\bin\netcoreapp2.0\Demo.runtimeconfig.dev.json
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\bin\netcoreapp2.0\Demo.dll
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\bin\netcoreapp2.0\Demo.pdb
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\bin\netcoreapp2.0\SimpleHTTP.dll
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\bin\netcoreapp2.0\SimpleHTTP.pdb
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\obj\Debug\netcoreapp2.0\Demo.csprojAssemblyReference.cache
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\obj\Debug\netcoreapp2.0\Demo.AssemblyInfoInputs.cache
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\obj\Debug\netcoreapp2.0\Demo.AssemblyInfo.cs
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\obj\Debug\netcoreapp2.0\Demo.csproj.CoreCompileInputs.cache
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\obj\Debug\netcoreapp2.0\Demo.csproj.CopyComplete
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\obj\Debug\netcoreapp2.0\Demo.dll
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\obj\Debug\netcoreapp2.0\Demo.pdb
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Samples\obj\Debug\netcoreapp2.0\Demo.genruntimeconfig.cache

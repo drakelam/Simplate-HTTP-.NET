@@ -1,0 +1,9 @@
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\bin\netcoreapp2.0\SimpleHTTP.deps.json
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\bin\netcoreapp2.0\SimpleHTTP.dll
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\bin\netcoreapp2.0\SimpleHTTP.pdb
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\obj\Debug\netcoreapp2.0\SimpleHTTP.csprojAssemblyReference.cache
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\obj\Debug\netcoreapp2.0\SimpleHTTP.AssemblyInfoInputs.cache
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\obj\Debug\netcoreapp2.0\SimpleHTTP.AssemblyInfo.cs
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\obj\Debug\netcoreapp2.0\SimpleHTTP.csproj.CoreCompileInputs.cache
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\obj\Debug\netcoreapp2.0\SimpleHTTP.dll
+E:\MMO Marketing 2021\Tool Money 2021 17-10\simple-http-master\simple-http-master\Source\SimpleHTTP\obj\Debug\netcoreapp2.0\SimpleHTTP.pdb
